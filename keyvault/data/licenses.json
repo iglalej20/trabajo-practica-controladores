@@ -1,0 +1,45 @@
+[
+  { "id": 1, "software": "Windows 11 Pro", "version": "22H2", "price": 149.99, "key": "WIN11-22H2-PRO9-8812", "featured": false, "discount": 15, "category": "OS", "icon": "🪟", "image": "resources/windows.svg" },
+  { "id": 2, "software": "Windows 11 Pro", "version": "23H2", "price": 179.99, "key": "WIN11-23H2-PRO4-5521", "featured": true, "discount": 10, "category": "OS", "icon": "🪟", "image": "resources/windows.svg" },
+  { "id": 3, "software": "Windows 11 Pro", "version": "24H2", "price": 199.99, "key": "WIN11-24H2-PRO1-9904", "featured": true, "discount": 0, "category": "OS", "icon": "🪟", "image": "resources/windows.svg" },
+
+  { "id": 4, "software": "Microsoft Office", "version": "2019 Home & Business", "price": 129.99, "key": "OFF19-HB77-3310-ABCD", "featured": false, "discount": 45, "category": "Productivity", "icon": "📊", "image": "resources/office.svg" },
+  { "id": 5, "software": "Microsoft Office", "version": "2021 Professional Plus", "price": 189.99, "key": "OFF21-PP88-4421-EFGH", "featured": false, "discount": 30, "category": "Productivity", "icon": "📊", "image": "resources/office.svg" },
+  { "id": 6, "software": "Microsoft Office", "version": "2024 LTSC", "price": 249.99, "key": "OFF24-LT99-5532-IJKL", "featured": true, "discount": 15, "category": "Productivity", "icon": "📊", "image": "resources/office.svg" },
+
+  { "id": 7, "software": "Adobe Photoshop", "version": "2023 (v24.7)", "price": 159.99, "key": "ADPS-2023-V247-7741", "featured": false, "discount": 35, "category": "Design", "icon": "🎨", "image": "resources/photoshop.svg" },
+  { "id": 8, "software": "Adobe Photoshop", "version": "2024 (v25.9)", "price": 199.99, "key": "ADPS-2024-V259-8852", "featured": false, "discount": 20, "category": "Design", "icon": "🎨", "image": "resources/photoshop.svg" },
+  { "id": 9, "software": "Adobe Photoshop", "version": "2025 (v26.1)", "price": 239.99, "key": "ADPS-2025-V261-9963", "featured": true, "discount": 0, "category": "Design", "icon": "🎨", "image": "resources/photoshop.svg" },
+
+  { "id": 10, "software": "Adobe Premiere Pro", "version": "2023 (v23.6)", "price": 169.99, "key": "ADPR-2023-V236-1122", "featured": false, "discount": 40, "category": "Design", "icon": "🎬", "image": "resources/premiere.svg" },
+  { "id": 11, "software": "Adobe Premiere Pro", "version": "2024 (v24.5)", "price": 209.99, "key": "ADPR-2024-V245-3344", "featured": false, "discount": 15, "category": "Design", "icon": "🎬", "image": "resources/premiere.svg" },
+  { "id": 12, "software": "Adobe Premiere Pro", "version": "2025 (v25.0)", "price": 249.99, "key": "ADPR-2025-V250-5566", "featured": false, "discount": 0, "category": "Design", "icon": "🎬", "image": "resources/premiere.svg" },
+
+  { "id": 13, "software": "JetBrains IntelliJ IDEA", "version": "2023.3", "price": 119.00, "key": "JBIJ-2023-3001-DEVX", "featured": false, "discount": 50, "category": "Development", "icon": "💻", "image": "resources/intellij.svg" },
+  { "id": 14, "software": "JetBrains IntelliJ IDEA", "version": "2024.2", "price": 149.00, "key": "JBIJ-2024-2002-DEVY", "featured": false, "discount": 20, "category": "Development", "icon": "💻", "image": "resources/intellij.svg" },
+  { "id": 15, "software": "JetBrains IntelliJ IDEA", "version": "2025.1", "price": 169.00, "key": "JBIJ-2025-1003-DEVZ", "featured": true, "discount": 10, "category": "Development", "icon": "💻", "image": "resources/intellij.svg" },
+
+  { "id": 16, "software": "JetBrains WebStorm", "version": "2023.3", "price": 69.00, "key": "JBWS-2023-3101-JS01", "featured": false, "discount": 35, "category": "Development", "icon": "⚡", "image": "resources/webstorm.svg" },
+  { "id": 17, "software": "JetBrains WebStorm", "version": "2024.3", "price": 89.00, "key": "JBWS-2024-3102-JS02", "featured": false, "discount": 0, "category": "Development", "icon": "⚡", "image": "resources/webstorm.svg" },
+  { "id": 18, "software": "JetBrains WebStorm", "version": "2025.1", "price": 99.00, "key": "JBWS-2025-1103-JS03", "featured": false, "discount": 5, "category": "Development", "icon": "⚡", "image": "resources/webstorm.svg" },
+
+  { "id": 19, "software": "Kaspersky Total Security", "version": "2023", "price": 39.99, "key": "KASP-2023-TS01-SAFE", "featured": false, "discount": 60, "category": "Security", "icon": "🛡️", "image": "resources/kaspersky.svg" },
+  { "id": 20, "software": "Kaspersky Total Security", "version": "2024", "price": 49.99, "key": "KASP-2024-TS02-SECU", "featured": false, "discount": 25, "category": "Security", "icon": "🛡️", "image": "resources/kaspersky.svg" },
+  { "id": 21, "software": "Kaspersky Total Security", "version": "2025", "price": 59.99, "key": "KASP-2025-TS03-PROT", "featured": false, "discount": 10, "category": "Security", "icon": "🛡️", "image": "resources/kaspersky.svg" },
+
+  { "id": 22, "software": "Bitdefender Total Security", "version": "2024", "price": 44.99, "key": "BITD-2024-9981-SHLD", "featured": false, "discount": 30, "category": "Security", "icon": "🔒", "image": "resources/bitdefender.svg" },
+  { "id": 23, "software": "Bitdefender Total Security", "version": "2025", "price": 54.99, "key": "BITD-2025-9982-GRD2", "featured": true, "discount": 15, "category": "Security", "icon": "🔒", "image": "resources/bitdefender.svg" },
+
+  { "id": 24, "software": "AutoCAD", "version": "2023", "price": 299.99, "key": "ACAD-2023-CAD1-7712", "featured": false, "discount": 40, "category": "Design", "icon": "📐", "image": "resources/autocad.svg" },
+  { "id": 25, "software": "AutoCAD", "version": "2024", "price": 349.99, "key": "ACAD-2024-CAD2-8823", "featured": false, "discount": 15, "category": "Design", "icon": "📐", "image": "resources/autocad.svg" },
+  { "id": 26, "software": "AutoCAD", "version": "2025", "price": 399.99, "key": "ACAD-2025-CAD3-9934", "featured": false, "discount": 0, "category": "Design", "icon": "📐", "image": "resources/autocad.svg" },
+
+  { "id": 27, "software": "Notion Plus", "version": "v2.38", "price": 79.99, "key": "NOTN-V238-TEAM-1010", "featured": false, "discount": 20, "category": "Productivity", "icon": "📝", "image": "resources/notion.svg" },
+  { "id": 28, "software": "Notion Plus", "version": "v2.45", "price": 95.99, "key": "NOTN-V245-TEAM-2020", "featured": false, "discount": 0, "category": "Productivity", "icon": "📝", "image": "resources/notion.svg" },
+
+  { "id": 29, "software": "VMware Workstation Pro", "version": "16.2", "price": 99.00, "key": "VMWR-1620-VIRT-4401", "featured": false, "discount": 55, "category": "OS", "icon": "🖥️", "image": "resources/vmware.svg" },
+  { "id": 30, "software": "VMware Workstation Pro", "version": "17.5", "price": 149.00, "key": "VMWR-1750-VIRT-4402", "featured": false, "discount": 10, "category": "OS", "icon": "🖥️", "image": "resources/vmware.svg" },
+
+  { "id": 31, "software": "Sublime Text", "version": "Build 4143", "price": 69.00, "key": "SUBL-4143-EDIT-7001", "featured": false, "discount": 25, "category": "Development", "icon": "⌨️", "image": "resources/sublime.svg" },
+  { "id": 32, "software": "Sublime Text", "version": "Build 4180", "price": 80.00, "key": "SUBL-4180-EDIT-7002", "featured": false, "discount": 0, "category": "Development", "icon": "⌨️", "image": "resources/sublime.svg" }
+]
